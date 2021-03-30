@@ -88,4 +88,4 @@ to get the correct username.
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-[&#10094; Prev](../pcc-chapter-09)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../pcc-chapter-11)
+[&#10094; Prev](../../../pcc-chapter-09)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../../../pcc-chapter-11)
