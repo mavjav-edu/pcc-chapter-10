@@ -84,7 +84,7 @@ Move one of the files to a different location on your system, and make
 sure the code in the `except` block executes properly.
 
 <span id="ch10exe9"></span>**10-9. Silent Cats and Dogs:** Modify your
-`except` block in [Exercise 10-8](../../../pcc_2e/tree/master/chapter_10/README.md#ch10exe8) to fail silently
+`except` block in [Exercise 10-8](#ch10exe8) to fail silently
 if either file is missing.
 
 <span id="ch10exe10"></span>**10-10. Common Words:** Visit Project
@@ -119,7 +119,7 @@ this number in a file. Write a separate program that reads in this value
 and prints the message, &ldquo;I know your favorite number! It&rsquo;s \_\_\_\_\_.&rdquo;
 
 <span id="ch10exe12"></span>**10-12. Favorite Number Remembered:**
-Combine the two programs from [Exercise 10-11](../../../pcc_2e/tree/master/chapter_10/README.md#ch10exe11) into
+Combine the two programs from [Exercise 10-11](#ch10exe11) into
 one file. If the number is already stored, report the favorite number to
 the user. If not, prompt for the user&rsquo;s favorite number and store it in
 a file. Run the program twice to see that it works.
