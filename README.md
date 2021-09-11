@@ -70,7 +70,7 @@ program by entering two numbers and then by entering some text instead
 of a number.
 
 <span id="page_208"></span><span id="ch10exe7"></span>**10-7. Addition
-Calculator:** Wrap your code from [Exercise 10-6](../../../pcc_2e/tree/master/chapter_10/README.md#ch10exe6) in
+Calculator:** Wrap your code from [Exercise 10-6](#ch10exe6) in
 a `while` loop so the user can continue entering numbers even if they
 make a mistake and enter text instead of a number.
 
