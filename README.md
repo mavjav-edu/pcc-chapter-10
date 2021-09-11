@@ -10,7 +10,7 @@ are special objects Python creates to manage errors that arise while a
 program is running. You’ll also learn about the `json` module, which allows you to save user data
 so it isn’t lost when your program stops running.
 
-
+![Error by Fawzi Mourad on Dribbble](comp_3.gif)
 
 
 <span id="page_197"></span>
@@ -41,6 +41,8 @@ Read in each line from the file you just created, *learning_python.txt*,
 and replace the word *Python* with the name of another language, such as
 *C*. Print each modified line to the screen.
 
+![TeePublic D'Ya Like Dags? The Snatch](973336_1.png)
+
 ## TRY IT YOURSELF Ⓑ
 
 <span id="ch10exe3"></span>**10-3. Guest:** Write a program that prompts
@@ -52,6 +54,8 @@ that prompts users for their name. When they enter their name, print a
 greeting to the screen and add a line recording their visit in a file
 called *guest_book.txt*. Make sure each entry appears on a new line in
 the file.
+
+![Guest Book](guestbook.gif)
 
 <span id="ch10exe5"></span>**10-5. Programming Poll:** Write a `while`
 loop that asks people why they like programming. Each time someone
@@ -87,6 +91,8 @@ sure the code in the `except` block executes properly.
 `except` block in [Exercise 10-8](#ch10exe8) to fail silently
 if either file is missing.
 
+![Missing File by Zach Graham for Dropbox Design on Dribbble](missing_file_02.jpg)
+
 <span id="ch10exe10"></span>**10-10. Common Words:** Visit Project
 Gutenberg (*<http://gutenberg.org/>*) and find a few texts you&rsquo;d like to
 analyze. Download the text files for these works, or copy the raw text
@@ -113,6 +119,8 @@ determines how many times the word `'the'` appears in each text.
 
 ## TRY IT YOURSELF Ⓓ
 
+![Working with JSON Data In Python](Working-With-JSON-Data-in-Python.jpg)
+
 <span id="ch10exe11"></span>**10-11. Favorite Number:** Write a program
 that prompts for the user&rsquo;s favorite number. Use `json.dump()` to store
 this number in a file. Write a separate program that reads in this value
@@ -134,3 +142,4 @@ Before printing a welcome back message in `greet_user()`, ask the user
 if this is the correct username. If it&rsquo;s not, call `get_new_username()`
 to get the correct username.
 
+![Verified user](21858fbf9c97cb6afb17da317ce5d15a4851de37r1-500-500_hq.gif)
